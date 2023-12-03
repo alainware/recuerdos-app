@@ -32,7 +32,7 @@
                 <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Cancelar</button>
                 <div>
                     <button type="submit" class="btn btn-warning">Editar Recuerdo </button>
-                </div>">
+                </div>
                 </form>
             </div>
         </div>
